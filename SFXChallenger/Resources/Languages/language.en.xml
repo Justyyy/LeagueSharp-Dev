@@ -1,67 +1,67 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <!-- ReSharper disable MarkupTextTypo -->
-<language lang="en">
+<language lang="tr">
 
 	<!-- START: Viktor -->
-	<entry key="Viktor_AutoFollow">Auto Follow</entry>
+	<entry key="Viktor_AutoFollow">Otomatik Takip</entry>
 	<!-- START: Viktor -->
 
 	<!-- START: Kalista -->
-	<entry key="Kalista_EHarassReset">E Harass Reset</entry>
+	<entry key="Kalista_EHarassReset">E Harass Resetleme</entry>
 	<!-- START: Kalista -->
 
 	<!-- START: GLOBAL -->
-	<entry key="G_UpdateAvailable">Update available</entry>
-	<entry key="G_Enabled">Enabled</entry>
-	<entry key="G_Drawing">Drawing</entry>
-	<entry key="G_CircleThickness">Circle Thickness</entry>
-	<entry key="G_Debug">Debug</entry>
-	<entry key="G_Range">Range</entry>
-	<entry key="G_Hero">Hero</entry>
-	<entry key="G_Heroes">Heroes</entry>
-	<entry key="G_Miscellaneous">Miscellaneous</entry>
+	<entry key="G_UpdateAvailable">Güncelleme mevcut</entry>
+	<entry key="G_Enabled">Etkin</entry>
+	<entry key="G_Drawing">Çizim</entry>
+	<entry key="G_CircleThickness">Çember Kalınlığı</entry>
+	<entry key="G_Debug">Hata Ayıklama</entry>
+	<entry key="G_Range">Menzil</entry>
+	<entry key="G_Hero">Şampiyon</entry>
+	<entry key="G_Heroes">Şampiyonlar</entry>
+	<entry key="G_Miscellaneous">Çeşitler</entry>
 	<entry key="G_Gapcloser">Gapcloser</entry>
-	<entry key="G_ImportantSpell">Important Spell</entry>
-	<entry key="G_Lasthit">Lasthit</entry>
-	<entry key="G_Hotkey">Hotkey</entry>
-	<entry key="G_Combo">Combo</entry>
+	<entry key="G_ImportantSpell">Önemli Büyü</entry>
+	<entry key="G_Lasthit">Son Vuruş</entry>
+	<entry key="G_Hotkey">Kısayol Tuşu</entry>
+	<entry key="G_Combo">Kombo</entry>
 	<entry key="G_Harass">Harass</entry>
 	<entry key="G_LaneClear">Lane Clear</entry>
-	<entry key="G_Flee">Flee</entry>
+	<entry key="G_Flee">Kaçış</entry>
 	<entry key="G_AntiGapcloser">Anti Gapcloser</entry>
-	<entry key="G_UseAutoAttacks">Use AutoAttacks</entry>
-	<entry key="G_UseQ">Use Q</entry>
-	<entry key="G_UseW">Use W</entry>
-	<entry key="G_UseE">Use E</entry>
-	<entry key="G_UseR">Use R</entry>
+	<entry key="G_UseAutoAttacks">Otomatik Atakları Kullan</entry>
+	<entry key="G_UseQ">Q Kullan</entry>
+	<entry key="G_UseW">W Kullan</entry>
+	<entry key="G_UseE">E Kullan</entry>
+	<entry key="G_UseR">R Kullan</entry>
 	<entry key="G_Flash">Flash</entry>
-	<entry key="G_Auto">Auto</entry>
+	<entry key="G_Auto">Otomatik</entry>
 	<entry key="G_Killsteal">Killsteal</entry>
 	<entry key="G_Stunned">Stunned</entry>
 	<entry key="G_Dash">Dash</entry>
 	<entry key="G_Fleeing">Fleeing</entry>
-	<entry key="G_Killable">Killable</entry>
+	<entry key="G_Killable">Öldürülebilir</entry>
 	<entry key="G_LastHit">Lasthit</entry>
 	<entry key="G_Ultimate">Ultimate</entry>
 	<entry key="G_Assisted">Assisted</entry>
 	<entry key="G_InterruptSpell">Interrupt Spell</entry>
-	<entry key="G_MoveCursor">Move to Cursor</entry>
+	<entry key="G_MoveCursor">İmlece doğru yürü</entry>
 	<entry key="G_Min">Min</entry>
 	<entry key="G_Max">Max</entry>
 	<entry key="G_Facing">Facing</entry>
 	<entry key="G_Poison">Poison</entry>
-	<entry key="G_Unkillable">Unkillable</entry>
-	<entry key="G_Big">Big</entry>
-	<entry key="G_Upgraded">Upgraded</entry>
-	<entry key="G_AutoAttack">AutoAttack</entry>
-	<entry key="G_Slowed">Slowed</entry>
-	<entry key="G_Range">Range</entry>
+	<entry key="G_Unkillable">Öldürülemez</entry>
+	<entry key="G_Big">Büyük</entry>
+	<entry key="G_Upgraded">Yükseltildi</entry>
+	<entry key="G_AutoAttack">Otomatik Saldırı</entry>
+	<entry key="G_Slowed">Yavaşladı</entry>
+	<entry key="G_Range">Menzil</entry>
 	<!-- END: GLOBAL -->
 
 	<!-- START: Language -->
-	<entry key="F_Language">Language</entry>
-	<entry key="Language_Auto">auto</entry>
+	<entry key="F_Language">Dil</entry>
+	<entry key="Language_Auto">otomatik</entry>
 	<!-- END: Language -->
 
 	<!-- START: Tick -->
@@ -69,44 +69,44 @@
 	<!-- END: Tick -->
 
 	<!-- START: Info -->
-	<entry key="F_Info">Info</entry>
-	<entry key="Info_Version">Version</entry>
+	<entry key="F_Info">Bilgi</entry>
+	<entry key="Info_Version">Versiyon</entry>
 	<entry key="Info_Forum">Forum</entry>
 	<entry key="Info_GitHub">GitHub</entry>
 	<entry key="Info_IRC">IRC</entry>
-	<entry key="Info_Exception">Exception</entry>
+	<entry key="Info_Exception">İstisna</entry>
 	<!-- END: Info -->
 
 	<!-- START: Hitchance -->
 	<entry key="F_MH">Hitchance</entry>
-	<entry key="MH_Medium">Medium</entry>
-	<entry key="MH_High">High</entry>
-	<entry key="MH_VeryHigh">Very High</entry>
+	<entry key="MH_Medium">Orta</entry>
+	<entry key="MH_High">Yüksek</entry>
+	<entry key="MH_VeryHigh">Çok Yüksek</entry>
 	<!-- END: Hitchance -->
 
 	<!-- START: SummonerManager -->
 	<entry key="F_MS">Summoners</entry>
-	<entry key="MS_UseIgnite">Use Ignite</entry>
-	<entry key="MS_UseSmite">Use Smite</entry>
+	<entry key="MS_UseIgnite">Tutuştur Kullan</entry>
+	<entry key="MS_UseSmite">Smite Kullan</entry>
 	<!-- END: SummonerManager -->
 
 	<!-- START: ManaManager -->
-	<entry key="F_MM">Mana Manager</entry>
+	<entry key="F_MM">Mana Yönetimi</entry>
 	<entry key="MM_MinMana">Min. Mana</entry>
 	<entry key="MM_MaxMana">Max. Mana</entry>
 	<!-- END: ManaManager -->
 
 	<!-- START: KillstealManager -->
 	<entry key="F_MK">Killsteal</entry>
-	<entry key="MK_UseItems">Use Items</entry>
-	<entry key="MK_UseSummoners">Use Summoners</entry>
+	<entry key="MK_UseItems">Itemleri kullan</entry>
+	<entry key="MK_UseSummoners">Büyüleri kullan</entry>
 	<!-- END: KillstealManager -->
 
 	<!-- START: ItemManager -->
-	<entry key="F_MI">Items</entry>
-	<entry key="MI_MinEnemiesRange">Min. Enemies in Range</entry>
-	<entry key="MI_UseFlee">Use Flee</entry>
-	<entry key="MI_UseCombo">Use Combo</entry>
+	<entry key="F_MI">Itemler</entry>
+	<entry key="MI_MinEnemiesRange">Menzilde ki min. düşman</entry>
+	<entry key="MI_UseFlee">Kaçışı kullan</entry>
+	<entry key="MI_UseCombo">Kombo Kullan</entry>
 
 	<entry key="MI_YoumuusGhostblade">Youmuu's Ghostblade</entry>
 	<entry key="MI_Tiamat">Tiamat</entry>
@@ -122,42 +122,42 @@
 
 	<!-- START: Orbwalker -->
 	<entry key="F_Orbwalker">Orbwalker</entry>
-	<entry key="Orbwalker_AttackRange">Attack Range</entry>
-	<entry key="Orbwalker_EnemyAttackRange">Enemy Attack Range</entry>
+	<entry key="Orbwalker_AttackRange">Saldırı Menzili</entry>
+	<entry key="Orbwalker_EnemyAttackRange">Düşman Saldırı Menzili</entry>
 	<entry key="Orbwalker_HoldZone">Hold Zone</entry>
 	<entry key="Orbwalker_ExtraWindupTime">Extra Windup Time</entry>
-	<entry key="Orbwalker_FarmDelay">Farm Delay</entry>
-	<entry key="Orbwalker_MovementDelay">Movement Delay</entry>
+	<entry key="Orbwalker_FarmDelay">Farm Gecikmesi</entry>
+	<entry key="Orbwalker_MovementDelay">Yürüme gecikmesi</entry>
 	<entry key="Orbwalker_HoldPositionRadius">Hold Position Radius</entry>
-	<entry key="Orbwalker_PrioritizeLastHit">Prioritize Lasthit</entry>
-	<entry key="Orbwalker_Flee">Flee</entry>
-	<entry key="Orbwalker_LastHit">Lasthit</entry>
-	<entry key="Orbwalker_LaneClear">Lane Clear</entry>
-	<entry key="Orbwalker_Harass">Harass</entry>
+	<entry key="Orbwalker_PrioritizeLastHit">Son vuruşu öncelik say</entry>
+	<entry key="Orbwalker_Flee">Kaçış</entry>
+	<entry key="Orbwalker_LastHit">Son vuruş</entry>
+	<entry key="Orbwalker_LaneClear">Koridor Temizleme</entry>
+	<entry key="Orbwalker_Harass">Dürtme</entry>
 	<entry key="Orbwalker_Mixed">Mixed</entry>
-	<entry key="Orbwalker_Combo">Combo</entry>
+	<entry key="Orbwalker_Combo">Kombo</entry>
 	<!-- END: Orbwalker -->
 
 	<!-- START: TargetSelector -->
-	<entry key="F_TargetSelector">Target Selector</entry>
-	<entry key="TS_SelectedTargetColor">Selected Target Color</entry>
+	<entry key="F_TargetSelector">Hedef Seçici</entry>
+	<entry key="TS_SelectedTargetColor">Seçilen hedefin rengi</entry>
 	<entry key="TS_AssassinTargetColor">Assasin Target Color</entry>
-	<entry key="TS_BestTargetColor">Best Target Color</entry>
-	<entry key="TS_AssassinMode">Assassin Mode</entry>
-	<entry key="TS_EnemyList">Enemy List</entry>
+	<entry key="TS_BestTargetColor">En iyi hedef rengi</entry>
+	<entry key="TS_AssassinMode">Assassin Modu</entry>
+	<entry key="TS_EnemyList">Düşman listesi</entry>
 	<entry key="TS_Weights">Weigths</entry>
 	<entry key="TS_WeightMultiplicator">Weight Multiplicator</entry>
-	<entry key="TS_FocusSelectedTarget">Focus Selected Target</entry>
-	<entry key="TS_OnlyAttackSelectedTarget">Only Attack Selected Target</entry>
-	<entry key="TS_AAKillable">AA Killable</entry>
-	<entry key="TS_AttackDamage">Attack Damage</entry>
-	<entry key="TS_AbilityPower">Ability Power</entry>
-	<entry key="TS_LowResists">Low Resists</entry>
-	<entry key="TS_LowHealth">Low Health</entry>
-	<entry key="TS_ShortDistance">Short Distance</entry>
-	<entry key="TS_TeamFocus">Team Focus</entry>
+	<entry key="TS_FocusSelectedTarget">Seçilen hedefe saldır</entry>
+	<entry key="TS_OnlyAttackSelectedTarget">Sadece seçilen hedefe saldır</entry>
+	<entry key="TS_AAKillable">Otomatik saldırı ile öldürülebilir</entry>
+	<entry key="TS_AttackDamage">Atak Hasarı</entry>
+	<entry key="TS_AbilityPower">Büyü Gücü</entry>
+	<entry key="TS_LowResists">Defansı az olan</entry>
+	<entry key="TS_LowHealth">Canı az olan</entry>
+	<entry key="TS_ShortDistance">En kısa mesafedeki</entry>
+	<entry key="TS_TeamFocus">Takım Fokus</entry>
 	<entry key="TS_DamageMe">Damage Me</entry>
-	<entry key="TS_Gold">Gold</entry>
+	<entry key="TS_Gold">Altın</entry>
 	<!-- END: TargetSelector -->
 
 </language>
